@@ -124,12 +124,3 @@ Autentizace je klíčovou součástí bezpečné komunikace. Většina moderníc
 
 ---
 
-## Shrnutí
-
-1. **Nešifrovaná komunikace je riziková** – útočníci snadno odposlouchávají a manipulují s daty.
-2. Používání **šifrování** dat pomocí TLS je dnes standardem.
-3. **Bezpečnostní certifikáty** jsou klíčové pro důvěru mezi klienty a servery.
-4. Bezpečnost **hesel a autentizace** je zajištěna hashováním a dvoufaktorovým ověřením.
-5. **Integrované šifrování a ověřování** je nutnou součástí moderních aplikací a technologií.
-
-Základní pochopení těchto principů je nevyhnutelné pro zajištění bezpečí na internetu. Zabezpečit komunikaci je nejen zodpovědnost vývojářů, ale i uživatelů.
