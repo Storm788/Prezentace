@@ -124,23 +124,6 @@ Autentizace je klíčovou součástí bezpečné komunikace. Většina moderníc
 
 ---
 
-## Nezabezpečené a zabezpečené sockety
-
-1. **Sockety v komunikaci**
-   - Sockety slouží jako rozhraní pro výměnu dat mezi aplikacemi na různých počítačích.
-   - Bezpečnost u klasických socketů není standardně zajištěna.
-
-2. **Rizika nezabezpečených socketů**
-   - Útočníci mohou získat přístup k přenášeným datům.
-   - Data mohou být napadena nebo zcizena během přenosu.
-
-3. **Zabezpečení pomocí TLS**
-   - Šifrování dat po celou dobu přenosu.
-   - Ověření totožnosti serveru.
-   - Ochrana proti MITM útokům a jiným hrozbám.
-
----
-
 ## Shrnutí
 
 1. **Nešifrovaná komunikace je riziková** – útočníci snadno odposlouchávají a manipulují s daty.
