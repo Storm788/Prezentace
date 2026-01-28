@@ -37,7 +37,7 @@ Klient–server komunikace je základním pilířem síťového přenosu dat.
 
 ---
 
-## Nešifrovaná komunikace a její rizika
+## Nezabezpečená komunikace a její rizika
 
 Pokud data přenášená po síti nejsou šifrována, mohou být napadena a zneužita.
 
