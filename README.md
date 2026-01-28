@@ -9,7 +9,6 @@
 **Síťová komunikace** je proces výměny dat mezi více zařízeními v síti. Nejčastěji probíhá podle **modelu klient–server**, kde klient (např. prohlížeč) odesílá požadavek a server odpovídá na základě dostupných zdrojů a dat.
 
 * Cílem síťové bezpečnosti je chránit citlivá data a zabránit neoprávněnému přístupu.
-* Bezpečnost je klíčová, protože na internetu putují denně miliardy důležitých dat, včetně hesel, finančních informací a osobních údajů.
 
 ---
 
